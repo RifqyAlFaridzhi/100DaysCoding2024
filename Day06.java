@@ -1,6 +1,7 @@
 package pkg100haringoding2;
 
 public class Day06 {
+    
     public static void main(String[] args) {
         //variable
         String nim;
@@ -8,7 +9,7 @@ public class Day06 {
         char kelas;
         kelas = 'c';
 
-        //print
+        //system out print
         System.out.print("NAMA : RIFQY AL FARIDZHI\n");
         System.out.printf("NIM : %s\n", nim);
         System.out.println("KELAS : "+ kelas);
