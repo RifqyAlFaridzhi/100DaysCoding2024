@@ -8,6 +8,6 @@ public class Day27no6 {
         String namahewan = "harimau";
         final Byte umurhewan = 5; //variable ini consanta
         namahewan = "singa";
-        System.out.printf("hewan bernama %s memilii umur %d tahun. jumlah hewan yang tersedia saat ini adalah %d", namahewan, umurhewan, jumlahhewan);
+        System.out.printf("hewan bernama %s memiliki umur %d tahun. jumlah hewan yang tersedia saat ini adalah %d", namahewan, umurhewan, jumlahhewan);
     }
 }
