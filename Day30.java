@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 public class Day30 {
     
     public static void main(String[] args) {
-        //BigInteger digunakan untuk perhitungan matematis untuk bilangan decimal yang sangat besar
+        //BigDecimal digunakan untuk perhitungan matematis untuk bilangan decimal yang sangat besar
         
         BigDecimal angka1 = new BigDecimal("135.344");
         BigDecimal angka2 = new BigDecimal("124.456");
