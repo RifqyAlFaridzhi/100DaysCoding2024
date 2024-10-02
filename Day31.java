@@ -16,7 +16,7 @@ public class Day31 {
 
         System.out.println("hasil: " + fltB);
 
-        String C = "true";
+        String C = "true"; //String ke Boolean
         boolean bolnC = Boolean.parseBoolean(C);
         System.out.println("hasil: " + bolnC);
         
