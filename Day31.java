@@ -7,7 +7,7 @@ public class Day31 {
         //metode yang di pakai bernama parsing
 
         String A = "500"; //String ke long
-        long lngA = Integer.parseInt(A);
+        long lngA = Long.parseLong(A);
             
         System.out.println("hasil: " + lngA);
 
