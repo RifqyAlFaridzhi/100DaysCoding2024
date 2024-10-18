@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Day45 {
     
     public static void main(String[] args) {
+        //operator logika OR
         Scanner input = new Scanner(System.in);
 
         System.out.print("masukkan nilai1: ");
