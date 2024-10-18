@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Day46 {
     
     public static void main(String[] args) {
+        //operator logika NOT
         Scanner input = new Scanner(System.in);
 
         System.out.print("masukkan true/false: ");
