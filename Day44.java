@@ -10,11 +10,9 @@ public class Day44 {
         System.out.print("masukkan nilai: ");
         int a = input.nextInt();
 
-        if (a > 60 && a < 100) {
-            System.out.println("Status: Lulus");
-        } 
-        else {
-            System.out.println("Status: Tidak Lulus");
+        boolean hasil = a > 0 && a < 10;
+        System.out.println("hasilnya adalah: " + hasil);
+        
         }
     }   
 }
