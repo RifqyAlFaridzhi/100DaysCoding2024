@@ -10,7 +10,7 @@ public class Day57 {
         int a = input.nextInt();
 
             while (a <= 50) {
-                System.out.println(a + " ");
+                System.out.print(a + " ");
                 a+=2;
             }
     }
