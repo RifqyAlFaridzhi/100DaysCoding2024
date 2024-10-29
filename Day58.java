@@ -11,7 +11,7 @@ public class Day58 {
 
         while (a > 0) {
             System.out.print(a + " ");
-            a -= 2;
+            a -= 7;
         }
 
     }
