@@ -8,7 +8,7 @@ public class Day62 {
 
         for (int i = 1; i <= 30; i++) {            // penggunanaan break pada for
             if (i == 25) {
-                break;  //berfungsi sebagai
+                break;  //berfungsi sebagai menghentikan eksekusi loop
             }
             System.out.println(i + " ");
         }
