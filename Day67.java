@@ -3,11 +3,11 @@ import java.util.Scanner;
 
 public class Day67 {
     
-    public static void perjumlahan(int Var1, int Var2) {
+    public void perjumlahan(int Var1, int Var2) {
         System.out.println("hasil perjumlahannya adalah: " + (Var1 + Var2));
     }
 
-    public static void pengurangan(int Var1, int Var2) {
+    public void pengurangan(int Var1, int Var2) {
         System.out.println("hasil pengurangannya adalah: " + (Var1 - Var2));
     }
 
