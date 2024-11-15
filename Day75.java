@@ -11,13 +11,13 @@ public class Day75 {
         String kalimat = input.toLowerCase();
 
         if (kalimat.startsWith("a")) {
-            System.out.println("Kata dimulai dengan huruf 'a'.");
+            System.out.println("Kalimat dimulai dengan huruf 'a'.");
         }
         else if (kalimat.startsWith("b")) {
-            System.out.println("Kata dimulai dengan huruf 'b'.");
+            System.out.println("Kalimat dimulai dengan huruf 'b'.");
         }
         else {
-            System.out.println("Kata tidak dimulai dengan huruf 'a' atau 'b'.");
+            System.out.println("Kalimat tidak dimulai dengan huruf 'a' atau 'b'.");
         }
     }
 }
