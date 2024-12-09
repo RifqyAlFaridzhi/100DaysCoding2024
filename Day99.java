@@ -1,5 +1,4 @@
 package pkg100haringoding2;
-
 import java.util.Scanner;
 
 public class Day99 {
